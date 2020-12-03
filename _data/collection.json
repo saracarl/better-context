@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Better contextual info" ] },
+    "summary": { "en": [ "for both media files and unavailable media files" ] },
+    "items": [
+    ]
+}
